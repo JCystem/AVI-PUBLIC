@@ -43,9 +43,6 @@ Pero si el estudiante insiste en estos temas, AVI esta diseñado para poder resp
 
 ----
 
-<a href="https://jcystem.com"><img src="[https://github.com/JCystem](https://raw.githubusercontent.com/JCystem/AVI-PUBLIC/main/JCLOG.png)" width="450" height="240" alt="JPG"/></a>
-
-
 
 ## `EDITOR Y PORPIETARIO DEL BOT` 
 <a href="https://github.com/srnovus"><img src="https://github.com/srnovus.png" width="300" height="300" alt="srnovus"></a>
